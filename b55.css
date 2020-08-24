@@ -1,0 +1,54 @@
+
+*{
+    margin: 0;
+}
+header{
+    width: 100%;
+    height: 130px;
+    background-color: lightcoral;
+}
+header img{
+    width: 9%;
+    height: 130px;
+}
+header h1{
+    float: right;
+    width: 20%;
+    height: 130px;
+    line-height: 130px;
+}
+
+ aside{
+     width: 30%;
+     height: 300px;
+     background-color: lime;
+     float: left;
+
+ }
+  main{
+      width: 70%;
+      height: 300px;
+      background-color: orange;
+      float: right;
+
+  }
+  main img{
+     width: 45%;
+     height: 300px;
+     float: left;
+  }
+  main p{
+      color:white;
+      font-size: 20px;
+      text-align: center;
+      
+     height: 300px;
+     transform: translate(2%, 24%);
+  }
+footer{
+    width: 100%;
+    height: 150px;
+    background-color:blue;
+    clear: both;
+}
+
